@@ -1,0 +1,5 @@
+IOC          , Threat Type, Severity
+malicious.com, Malware    , Low
+badactor.net , Phishing   , High
+evil.org     , Phishing   , Low
+attackers.co , DDoS       , Medium
